@@ -6,7 +6,7 @@
 
 🦾 Always seeking improvement.
 
-📫 Say hi: :sparkles:[LinkedIn](https://www.linkedin.com/in/lauraberkey/)
+📫 Say hi: [LinkedIn](https://www.linkedin.com/in/lauraberkey/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LABerk)](https://github.com/anuraghazra/github-readme-stats)
 
